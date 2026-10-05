@@ -4,6 +4,8 @@ Demo técnica de un entorno de construcción por bloques (estilo Minecraft) desa
 **Unity 6 (6000.3) + URP** para el ejercicio de programación del *AEVI Dev Contest 2026*.
 Todo el código es C# propio: sin assets externos ni paquetes adicionales.
 
+**[⬇ Descargar ejecutable para Windows](../../releases/latest)**
+
 | Colocar y eliminar bloques | Generación procedural del terreno |
 |:---:|:---:|
 | ![Colocar y eliminar bloques](media/colocar-eliminar.gif) | ![Generación procedural del terreno](media/generacion-terreno.gif) |
@@ -43,6 +45,13 @@ Assets/Scripts/
 ```
 
 ## Cómo ejecutarlo
+
+### Ejecutable (Windows)
+
+1. Descarga `VoxelBuilder-Windows.zip` desde la [última release](../../releases/latest).
+2. Descomprímelo y ejecuta `AEVI Dev Contest 26.exe`.
+
+### Desde el código fuente
 
 1. Clona el repositorio y ábrelo con **Unity 6000.3.6f1** (o compatible).
 2. Abre `Assets/Scenes/SampleScene.unity` y pulsa *Play*.
