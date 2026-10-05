@@ -4,6 +4,10 @@ Demo técnica de un entorno de construcción por bloques (estilo Minecraft) desa
 **Unity 6 (6000.3) + URP** para el ejercicio de programación del *AEVI Dev Contest 2026*.
 Todo el código es C# propio: sin assets externos ni paquetes adicionales.
 
+| Colocar y eliminar bloques | Generación procedural del terreno |
+|:---:|:---:|
+| ![Colocar y eliminar bloques](media/colocar-eliminar.gif) | ![Generación procedural del terreno](media/generacion-terreno.gif) |
+
 ## Características
 
 - **Mundo procedural** generado con ruido Perlin por octavas y semilla reproducible.
