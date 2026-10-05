@@ -1,0 +1,51 @@
+# --- Unity: carpetas generadas ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/ProfilerCaptures/
+
+# --- IDE / soluciones generadas ---
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# --- Builds / crash reports ---
+*.apk
+*.aab
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# --- SO ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Documentación interna ---
+/Assets/Docs/
+/Assets/Docs.meta
